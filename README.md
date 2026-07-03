@@ -129,9 +129,7 @@ I'm constantly building and shipping new things — check out my **[pinned repos
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arnavKolhe27&theme=tokyonight&no-frame=true&row=1&column=7" width="90%"/>
-
+  <img src="https://github-profile-trophy-1.vercel.app/?username=arnavKolhe27&theme=tokyonight" width="100%" alt="GitHub Trophies" />
 </div>
 
 <br/>

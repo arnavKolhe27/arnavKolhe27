@@ -111,8 +111,8 @@ I'm constantly building and shipping new things — check out my **[pinned repos
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arnavKolhe27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavKolhe27&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arnavKolhe27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arnavKolhe27&layout=compact&theme=tokyonight&hide_border=true&hide=typescript" width="35%"/>
 
 <br/>
 

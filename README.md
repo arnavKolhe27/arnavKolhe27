@@ -1,16 +1,157 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**arnavKolhe27/arnavKolhe27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi%20There!%20I'm%20Arnav%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20|%20DSA%20Enthusiast%20|%20AI%2FML%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com/?lines=3rd-Year+CSE+Student+%40+SPIT;DSA+%26+Problem+Solving+Enthusiast;AI%2FML+Explorer+%26+Full-Stack+Developer;Always+Learning%2C+Always+Building.;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80&font=Fira%20Code&center=true&width=650&height=50&duration=3000&pause=1000&color=8B5CF6&vCenter=true&size=22&weight=600" alt="Typing SVG" />
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=arnavKolhe27&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/arnavKolhe27?style=for-the-badge&color=6366F1&labelColor=black)
+![GitHub Stars](https://img.shields.io/github/stars/arnavKolhe27?style=for-the-badge&color=EC4899&labelColor=black)
+
+</div>
+
+<br/>
+
+## 💭 What Drives Me
+
+> *"I believe in writing code that doesn't just work — but code that solves real problems, scales gracefully, and makes someone's life a little easier. I believe consistency beats intensity, that every bug is a lesson in disguise, and that the best engineers never stop being students. DSA sharpens the way I think, AI/ML fuels my curiosity about the future, and every project I build is a step closer to creating something that truly matters."*
+
+<br/>
+
+## 🧑‍💻 About Me
+
+```yaml
+name: "Arnav Kolhe"
+role: "Computer Science & Engineering Student"
+college: "Sardar Patel Institute of Technology (SPIT)"
+year: "3rd Year"
+core_interests: ["Data Structures & Algorithms", "Artificial Intelligence & Machine Learning"]
+currently_exploring: "Deep Learning & System Design"
+philosophy: "Consistency > Intensity | Build. Break. Learn. Repeat."
+fun_fact: "I debug better with coffee ☕ in hand"
+```
+
+<br/>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🎯 Current Focus & Interests
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Data Structures & Algorithms**
+- Solving problems daily to sharpen logical thinking
+- Focused on optimization, time & space complexity
+- Actively practicing on LeetCode
+
+**🤖 AI / Machine Learning**
+- Exploring supervised & unsupervised learning models
+- Building hands-on projects to understand real-world AI applications
+- Curious about the intersection of AI and software engineering
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 Full-Stack Development**
+- Building responsive UIs with **React**, **HTML5**, **CSS3**
+- Managing data with **MySQL** & **MongoDB**
+- Version control & collaboration using **Git**
+
+**🚀 Future Goals**
+- Contribute to impactful open-source projects
+- Land a role where I can apply DSA + AI/ML together
+- Never stop building, never stop learning
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📌 Projects
+
+I'm constantly building and shipping new things — check out my **[pinned repositories](https://github.com/arnavKolhe27?tab=repositories)** for the latest work. Here are a couple I'm currently developing:
+
+- **Rotary Club Project** — _Placeholder: Add a one-line description here._
+- **DefaultShield** — _Placeholder: Add a one-line description here._
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arnavKolhe27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavKolhe27&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavKolhe27&theme=tokyonight&hide_border=true" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavKolhe27&theme=tokyo-night&hide_border=true" width="90%"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arnavKolhe27&theme=tokyonight&no-frame=true&row=1&column=7" width="90%"/>
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-kolhe-b55b57386/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavk122006@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arnav_27_/)
+
+<br/>
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." — Cory House
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
+
+**⭐️ From Arnav Kolhe — Thanks for stopping by!**
+
+</div>

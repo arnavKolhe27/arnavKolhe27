@@ -1,155 +1,199 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi%20There!%20I'm%20Arnav%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20|%20DSA%20Enthusiast%20|%20AI%2FML%20Explorer&descAlignY=55&descSize=18" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=3rd-Year+CSE+Student+%40+SPIT;DSA+%26+Problem+Solving+Enthusiast;AI%2FML+Explorer+%26+Full-Stack+Developer;Always+Learning%2C+Always+Building.;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80&font=Fira%20Code&center=true&width=650&height=50&duration=3000&pause=1000&color=8B5CF6&vCenter=true&size=22&weight=600" alt="Typing SVG" />
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=arnavKolhe27&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/arnavKolhe27?style=for-the-badge&color=6366F1&labelColor=black)
-![GitHub Stars](https://img.shields.io/github/stars/arnavKolhe27?style=for-the-badge&color=EC4899&labelColor=black)
-
-</div>
-
-<br/>
-
-## 💭 What Drives Me
-
-> *"I believe in writing code that doesn't just work — but code that solves real problems, scales gracefully, and makes someone's life a little easier. I believe consistency beats intensity, that every bug is a lesson in disguise, and that the best engineers never stop being students. DSA sharpens the way I think, AI/ML fuels my curiosity about the future, and every project I build is a step closer to creating something that truly matters."*
-
-<br/>
-
-## 🧑‍💻 About Me
-
-```yaml
-name: "Arnav Kolhe"
-role: "Computer Science & Engineering Student"
-college: "Sardar Patel Institute of Technology (SPIT)"
-year: "3rd Year"
-core_interests: ["Data Structures & Algorithms", "Artificial Intelligence & Machine Learning"]
-currently_exploring: "Deep Learning & System Design"
-philosophy: "Consistency > Intensity | Build. Break. Learn. Repeat."
-fun_fact: "I debug better with coffee ☕ in hand"
+```
+ █████╗ ██████╗ ███╗   ██╗ █████╗ ██╗   ██╗    ██╗  ██╗ ██████╗ ██╗     ██╗  ██╗███████╗
+██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║    ██║ ██╔╝██╔═══██╗██║     ██║  ██║██╔════╝
+███████║██████╔╝██╔██╗ ██║███████║██║   ██║    █████╔╝ ██║   ██║██║     ███████║█████╗  
+██╔══██║██╔══██╗██║╚██╗██║██╔══██║╚██╗ ██╔╝    ██╔═██╗ ██║   ██║██║     ██╔══██║██╔══╝  
+██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝     ██║  ██╗╚██████╔╝███████╗██║  ██║███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝      ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
 ```
 
-<br/>
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=arnavKolhe27&color=2b2b2b&style=flat-square&label=views)
+![Followers](https://img.shields.io/github/followers/arnavKolhe27?style=flat-square&color=2b2b2b&labelColor=000000)
 
 </div>
 
-<br/>
-
-## 🎯 Current Focus & Interests
+<br>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-**🧠 Data Structures & Algorithms**
-- Solving problems daily to sharpen logical thinking
-- Focused on optimization, time & space complexity
-- Actively practicing on LeetCode
-
-**🤖 AI / Machine Learning**
-- Exploring supervised & unsupervised learning models
-- Building hands-on projects to understand real-world AI applications
-- Curious about the intersection of AI and software engineering
+```
+::::::::::::::::::::::::::+@%-.::::::::::::::::::::::::::::::::-+*+--===++**+-::::::::::::::-*########
+::::::::::::::::::::::::::+@@*..:::....::::::::::::::::::::::::=#*=:::::::::::::::::::::::::::+#######
+:::::::::::::::::::::::::::#@@*:............::::::::::::::::::::.::::::::::::::::::::::::::::::=##*###
+::::::::::::::::::::::::::::+%@%=:...........:::::..:::..:::::::::::::::::::::::::::::::::::::::=*###*
+::::::::::==-::::::::::::::..:-+**=-:........::...........:::::::::::::::::::::::::::::::::::::::=***#
+:::::::::-+**-::::::::::::::.....-+*##+==+++:::=+####*+=-.......::::::::::::::::::::::::::::::::::=*##
+::::::::::.::-:::::::::::.....-=++#%%#*##%%%#####%%@@%*++*+-:........::...::::.::::::::::::::::::::=##
+::::::::::::::::::::........:===+#%%%*#%%%%%@%@%%%@@@@@%%%@@%*=-:..............::.:..:::::::::::::::=#
+::::...::::::::::...::...:-+###%%%%%%@@%%@@@%@@@@@@@@@@@@%%@@@%+==-:..........-=-......:::::.::::.:+
+.-##*=-:::::::::--=+*#+=*#%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@%*=---:.......-=:........:::..:::::.:
+::-+***=::-==+*#%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@%%#*-.:......-+=..........::...:..:..
+:......::::-:::*@%%%%%%%%%%%%@@@%%%%%%%%%%%%@@@@@@@@@@@@@@@%@@@@%%##+-......::............:......:..
+:.:::::..::..:#@@%%%%%%@%%%@%@@@@@%%%%%@@%%%@@%@@@@@@@@@@@@%@@@@@%%%%#+:............................
+:.::::....:.:+#@@@%%%%@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%#-...........................
+:.::::.....:=#@@@%%%%@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%=..............--:.........
+...:::....:+##@@@%%@@@@@@@@@@@@@@@@#%@@@@@@#*@@@@@@@@@@@@@@@@@@@@@@@%%%%%%=.............=**+:.......
+..:.:.....=+:+@@@@@@@@@@@@@@#*%@@@**@@@@%%%*#@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%+:............::-:.......
+.:++:..:.::..*@%@@@@@@@@@@%+==#@@%*%@#*#+#+=+%%@@@@@@@@@@@@@%@@@@@@@%%%%%%#+-:....................
+..:-:.:-:-..:+%%@@@@@%*@@%+===+%@*+%#+*+++==**=#@@%@@@@@@@@@@@@@@@@@@@@%%%%%####*=--::::............
+......:--..-*=%#@@@@@#*@%*=====+%++++*###%#*#**+%@#@@@@@@@@@@@@@@@@@@@@@%%%%%*-----:::..............
+......:-.:=#%-**@@@@@**@*+======+*=+###*###=:-=*%#%@@@@@@@@@@@@@@@@@@@%%@%%###-.....................
+.......::+###-*#@@@*#++#*+=========+=*+-++*=.:-+**%@@@#%@@@@@@@@@@@@@@@@@@@%##*+=-:::..:::..........
+.......:-#*+*+%%@@%=*####*===========+*=====-====+#@@*=*@@@@@@@@@@@@@@@@@@@@@%+-+****+=-:....:==....
+......:-**:-**@%%@%#%+*%#*-======================+%*@==*@@@@@@@@@@%%@@@@@@@@@@%-....:.......:*#+....
+......:++..:+#@@@@%%=-**#=-=====================+#+-%#=*@@@@@@@@#*##*@@@@@@@@@@%*:..........:-:.....
+......-+:.:*=*@%@@##=-**=======================+*====%*%@@@@@@@#+###*%@@@@@@%@@%@%=:................
+......:=..:=**%%%@%=================================+*%@@@@@@@@+######@@@@@%%%%+-*%#++--:...........
+.......--:.-%#*##%%:-=-::==========================*#%@%%%%%@@%+#*=*#*@@@%@@%%%#-.:+=:-::...........
+.........:=%@@%###+:-:...-=======================+***+=+*#=*@@@**#++**@@@%%#::*##-.:=:..............
+..........*#*%%%%#=.. ...-=============================+*+=+@@@*+#*+#%@@@@%*: ::-*:..-:.............
+..::.....:#==-=@@%+-=-:.:==============================+===*@@@#+*+#@@@@@%@#-....:-..::.............
+..--......+----#@@=.:--:-=======---=========================#@@%*#%@@@@@@%@#=.......................
+..........:::*=-*#+.....:=++----==========================*##@@@@@@@@@@@%@%#=.......................
+..........::.=-..:-......=++=============================*%##@@@@@@@@@@@#%%#*:......................
+..........::.::..........-==============================*#***@@@@@@@@@@@%*-=*+...........:..........
+..........................============================+####**%@@@@@@%%@@@#...--:.........-..........
+....................:.....-========================++*#%##***%@@@%%@%--*%@*:........................
+..................::.......=====================++*****##****%%%@#*@@+ .-#+==:......................
+...........................:================++***************%#+%=+%@*:...:.-=-::...................
+............................-============+***********#*##*****:=#:.+%+=:..:.........................
+.............................=======++**####***********###***#--=-..--:-............................
+...........................:.-++**#########*******##**#####**#=--===-=--:..........................:
+::---::::::.................:-++*##########*****###*#######**#*==--=======-:::.......::::==:......:-
+++**++++++==----::..............:+***####*****#############**#%#==---====+++=---::.::----=**==-...:-
++++++++++++=====-:............::::+****##*##################*#%%*=+=----===+*+=====-----=+**+***-..-
++++++++=========-:...........:::::-*****#######################%@*++=------==+**++++==--***====+*+--
++===+========----:...........:::-=:=*****##########**##########%@#+++==--------=***+++++**+=====++++
+++++=======------:..........:---+#+-+******######****##########%%%*=+++===-------=+***+**#+=====++++
+++=========-----:...........--:=#**=++******####*##############%%%*=++++=====---==+*#****#+=========
++++========---:............:---*+**:+*+**##*###################%%%+=++++++++==+*####*##***+=========
+===-====-==-::::-:.........---=#:+*.-****#####################%%##+++++++++=+######***++=++=========
++++++++++++===================================================================================
+```
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
-**🌐 Full-Stack Development**
-- Building responsive UIs with **React**, **HTML5**, **CSS3**
-- Managing data with **MySQL** & **MongoDB**
-- Version control & collaboration using **Git**
+```
+arnav@github: ~$ whoami
 
-**🚀 Future Goals**
-- Contribute to impactful open-source projects
-- Land a role where I can apply DSA + AI/ML together
-- Never stop building, never stop learning
+Now       Computer Science & Engineering Student
+Institute Sardar Patel Institute of Technology
+Year      3rd Year
+
+- Focus
+Core      Data Structures & Algorithms
+Applied   Artificial Intelligence & Machine Learning
+Now       Deep Learning, System Design
+
+- Stack
+Languages Java, Python, C++, C
+Frontend  HTML5, CSS3, React
+Data      MySQL, MongoDB
+Tools     Git, VS Code
+
+- Links
+LinkedIn  arnav-kolhe-b55b57386
+LeetCode  Arnav_27_
+```
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br>
 
-## 📌 Projects
+```bash
+arnav@github:~$ cat philosophy.txt
+```
 
-I'm constantly building and shipping new things — check out my **[pinned repositories](https://github.com/arnavKolhe27?tab=repositories)** for the latest work. Here are a couple I'm currently developing:
+> I approach engineering as a discipline built on fundamentals, not shortcuts. Data structures and algorithms are how I train the way I think about problems — precision, efficiency, and correctness before anything else. Machine learning is where I apply that same rigor to systems that need to reason with incomplete information. I would rather understand something deeply than move fast and skip the understanding.
 
-- **Rotary Club Project** — _Placeholder: Add a one-line description here._
-- **DefaultShield** — _Placeholder: Add a one-line description here._
+<br>
 
-<br/>
+```bash
+arnav@github:~$ ls tech-stack/
+```
 
-## 📊 GitHub Analytics
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+<br>
+
+```bash
+arnav@github:~$ ls projects/
+```
+
+Projects are added as they're completed — this list will keep growing.
+
+- **Rotary Club Project** — _description pending_
+- **DefaultShield** — _description pending_
+
+Full list always up to date in [repositories](https://github.com/arnavKolhe27?tab=repositories).
+
+<br>
+
+```bash
+arnav@github:~$ ./contributions.sh
+```
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arnavKolhe27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arnavKolhe27&layout=compact&theme=tokyonight&hide_border=true&hide=typescript" width="35%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnavKolhe27/arnavKolhe27/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnavKolhe27/arnavKolhe27/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/arnavKolhe27/arnavKolhe27/output/github-contribution-grid-snake.svg">
+</picture>
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavKolhe27&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arnavKolhe27&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&bg_color=00000000" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavKolhe27&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&bg_color=00000000" width="35%"/>
 
-<br/><br/>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavKolhe27&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavKolhe27&theme=tokyonight&hide_border=true&background=00000000" width="70%"/>
 
 </div>
 
-<br/>
+<br>
 
-## 🏆 GitHub Trophies
+```bash
+arnav@github:~$ ./contact.sh
+```
+
+| Platform | Link |
+|---|---|
+| LinkedIn | [arnav-kolhe-b55b57386](https://www.linkedin.com/in/arnav-kolhe-b55b57386/) |
+| LeetCode | [Arnav_27_](https://leetcode.com/u/Arnav_27_/) |
+| Email | [arnavk122006@gmail.com](mailto:arnavk122006@gmail.com) |
 
 <div align="center">
-  <img src="https://github-profile-trophy-1.vercel.app/?username=arnavKolhe27&theme=tokyonight" width="100%" alt="GitHub Trophies" />
-</div>
 
-<br/>
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-kolhe-b55b57386/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavk122006@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arnav_27_/)
-
-<br/>
-
-### 💡 "Code is like humor. When you have to explain it, it's bad." — Cory House
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
-
-**⭐️ From Arnav Kolhe — Thanks for stopping by!**
+```bash
+arnav@github:~$ exit
+```
 
 </div>
